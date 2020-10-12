@@ -9,6 +9,13 @@
             "email": "gydo@makkinga.online"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Makkinga\\CarbonHelper\\CarbonHelperServiceProvider"
+            ]
+        }
+    }
 }
