@@ -1,0 +1,14 @@
+{
+    "name": "makkinga/laravel-filetype-icons",
+    "description": "A Laravel Blade component for placing filetype icons",
+    "type": "blade component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gydo Makkinga",
+            "email": "gydo@makkinga.online"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
